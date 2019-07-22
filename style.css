@@ -1,1 +1,14 @@
+a{
+	color: pink;
+}
+.veg{color: blue;}
+.nonveg{color: yellow;}
+#onething{background-color: red;}
+p{
+	  font-family: "Arial";
+	  color: pink;
+	  font-size: 30px;
 
+}
+.sidebar{background-color: yellow;}
+.title{height: 60px;, width:100%;}
